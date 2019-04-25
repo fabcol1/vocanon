@@ -14,9 +14,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Work on code structure.
 - Main widget for audio recording.
 - Fashion widget: stopwatch.
-
-### Changed
-
-### Removed
-
-### Fixed
+- Implemented start stop registration and a first example of play an audio.
